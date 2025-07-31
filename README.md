@@ -38,5 +38,4 @@ I built this game as part of my learning journey, revising Python concepts after
 
 ---
 
-## 📌 Sample Output
 
